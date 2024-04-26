@@ -3,14 +3,22 @@
         min-height:100%
     }
     .container-app aside{
-        width:25%;
+        width:100%;
+        flex-direction: row;
+        justify-content: space-between;
     }
     .container-app aside ul{
-        display:none;
+        display:flex;
+        justify-content: end;
+    }
+    .container aside img{
+        display: block;
+        margin:auto;
     }
     .container-app main{
         width:100%;
     }
+    
     .container-app main h4{
         text-wrap: wrap;
         width:50%;

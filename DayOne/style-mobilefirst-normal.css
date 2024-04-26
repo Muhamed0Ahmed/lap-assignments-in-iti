@@ -5,9 +5,16 @@
     }
     .container-app aside{
         width:100%;
+        display:flex;
+        flex-direction: column-reverse;
+        align-items: center;
     }
     .container-app aside ul{
-        display:none;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width:100%;
+
     }
     .container-app main{
         width:100%;
