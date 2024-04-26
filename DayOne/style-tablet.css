@@ -1,0 +1,22 @@
+@media (max-width : 700px) and (min-width:400px){
+    .container-app{
+        min-height:100%
+    }
+    .container-app aside{
+        width:25%;
+    }
+    .container-app aside ul{
+        display:none;
+    }
+    .container-app main{
+        width:100%;
+    }
+    .container-app main h4{
+        text-wrap: wrap;
+        width:50%;
+    
+    }
+    .container-app main  .card{
+        width:50%;
+    }
+}

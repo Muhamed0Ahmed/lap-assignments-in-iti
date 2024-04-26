@@ -1,0 +1,42 @@
+@media  (max-width:899px) and (min-width:700px){
+   
+    .container-app aside{
+        width:25%;
+        display:block
+    }
+    .container-app aside ul{
+        display:block
+    }
+    .container-app main{
+        width:75%;
+    }
+    .container-app main h4{
+        text-wrap: wrap;
+        width:50%;
+    
+    }
+    .container-app main  .card{
+        width:50%;
+    }
+}
+@media  screen and (min-width:900px){
+   
+    .container-app aside{
+        width:25%;
+        display:block
+    }
+    .container-app aside ul{
+        display:block
+    }
+    .container-app main{
+        width:75%;
+    }
+    .container-app main h4{
+        text-wrap: wrap;
+        width:50%;
+    
+    }
+    .container-app main  .card{
+        width:25%;
+    }
+}

@@ -1,0 +1,25 @@
+
+    
+    .container-app{
+        min-height:100%
+    }
+    .container-app aside{
+        width:100%;
+    }
+    .container-app aside ul{
+        display:none;
+    }
+    .container-app main{
+        width:100%;
+    }
+    .container-pp main img{
+        display:block;
+        max-width:100%;
+        margin:auto;
+    }
+    .container-app main h4{
+        text-wrap: wrap;
+        width:50%;
+    
+    }
+
